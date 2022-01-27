@@ -4,7 +4,6 @@
 ## رابـط السـورس للتنـصيـب
 
 [! [نشر] ( https://www.herokucdn.com/deploy/button.svg )] ( https://heroku.com/deploy؟template=https://github.com/iTsHuKi/jmthon)
-
 ## شكـرا لكـم 
 
 
